@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+}
+
+
+
+
+header {
+	background: url(./100_0684-300x225.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color: silver;
+	padding: 20px 0;
+}
+	
+
+.sub ul li{
+	float: center;
+	}
